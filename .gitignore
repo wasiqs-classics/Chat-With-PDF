@@ -1,0 +1,18 @@
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
+env/
+
+# Ignore other temporary files
+*.log
+*.tmp
+
+# Ignore dependency directories
+node_modules/
